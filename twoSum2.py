@@ -24,3 +24,6 @@ class Solution(object):
 # A dictionary functioning similar to a hashmap.
 # We iterate through our numbers, and check if we have hashed the other number we need to reach target
 # If not found, hash the current value and continue iterating
+
+
+# A different solution: two-pointers method
