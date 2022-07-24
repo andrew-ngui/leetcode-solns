@@ -13,5 +13,4 @@ class Solution:
             lst.append(lst[i-1] + lst[i-2])
         return lst[n-1]
             
-        
-        
+# Better solution: memoization: we only need the previous and current
